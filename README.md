@@ -7,4 +7,3 @@ In this project we will create a Convolutional Neural Network which will be able
 # Scope:
 
 This project can be used for educational purposes to get a better understanding of how to create network architecture for a CNN model. You can further hyper parameter tune this model to reach a higher accuracy. It can be used by bird sanctuaries to identify different types of birds.
-
